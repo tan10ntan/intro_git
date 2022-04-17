@@ -1,0 +1,31 @@
+[33mcommit 1c4e074e16c31c805df23564cbbb5021165f026f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: tan10ntan <fulll.sugar10@gmail.com>
+Date:   Sun Apr 17 15:33:02 2022 +0900
+
+    git status追加
+
+[33mcommit 607124da81d0580c5b4dcedcbf9b14aa9357a774[m
+Author: tan10ntan <fulll.sugar10@gmail.com>
+Date:   Sun Apr 17 15:30:23 2022 +0900
+
+    複数ファイルのコミット
+
+[33mcommit 05d8b70717b46148b95b603ca4e77c4cd4e13f8b[m
+Author: tan10ntan <fulll.sugar10@gmail.com>
+Date:   Sat Apr 16 16:48:46 2022 +0900
+
+    secondテキストの作成
+
+[33mcommit 710e5d60ccf4e93c2eb32b29b1f802e07538a54a[m
+Author: tan10ntan <fulll.sugar10@gmail.com>
+Date:   Sat Apr 16 16:44:18 2022 +0900
+
+    文字コード変更
+    
+    文字化け対処
+
+[33mcommit a97b0f5105a3afabdf1561b7c72e8031104f71e0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: tan10ntan <fulll.sugar10@gmail.com>
+Date:   Sat Apr 16 16:23:39 2022 +0900
+
+    initial commit
