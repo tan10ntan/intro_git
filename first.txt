@@ -3,3 +3,6 @@ Gitの練習をします
 ２
 
 3
+
+
+git status
